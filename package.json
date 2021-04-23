@@ -1,0 +1,16 @@
+{
+  "name": "pairing-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "jest": "^26.6.3",
+    "mocha": "^8.3.2"
+  }
+}
